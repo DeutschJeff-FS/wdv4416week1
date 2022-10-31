@@ -1,0 +1,17 @@
+{
+  "name": "week1unittest",
+  "version": "1.0.0",
+  "description": "NodeJS TDD Testing Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "NodeJS",
+    "Jest",
+    "Testing",
+    "TDD"
+  ],
+  "author": "Jeff Deutsch",
+  "license": "MIT"
+}
